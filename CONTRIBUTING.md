@@ -1,6 +1,6 @@
 # Contributing
 
-👍🎉 First off, thank you for taking the time to contribute! 🎉👍
+👍🎉 First off, thank you for taking the time to contribbute! 🎉👍
 
 The following is a set of guidelines for contributing. These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -54,7 +54,7 @@ After you have forked and cloned the repository, you can start the contribution 
 
 Then, you can submit the PR to be reviewed. In general, we follow the standard [GitHub pull request](https://help.github.com/en/articles/about-pull-requests) process. Follow the provided template on your PR to include details about your pull request for the maintainers.
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > If you are seeking to make a larger contribution, such as introducing a new feature or functionality, or refactoring a significant portion of the codebase to improve performance, readability, or maintainability, [get in touch](#communication) with us prior to starting. This helps ensure that your time is not wasted working on a change that the project developers will not accept into the codebase.
 
 ### Pull request review
